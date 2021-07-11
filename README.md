@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **varun.h.khatri.dev@protonmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/varuncv](http://bit.ly/varuncv)
+- 📄 Know about my experiences [My resume!](https://bit.ly/resume-varun)
 
 - ⚡ Fun fact **Listening to music while working on projects is the best productivity hack ever!**
 
