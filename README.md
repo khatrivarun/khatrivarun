@@ -1,17 +1,25 @@
 ![Varun Khatri](https://i.imgur.com/g5qYnNh.jpg)
 
+<div align = "center">
+
+<a href='https://github.com/khatrivarun'>
+<img src='https://img.shields.io/badge/GitHub-khatrivarun-inactive?style=for-the-badge&logo=github&logoColor=white' border='0' alt='badge-github'/>
+</a>
+
+<a href='mailto:varun.h.khatri.dev@protonmail'>
+<img src='https://img.shields.io/badge/ProtonMail-varun.h.khatri.dev-inactive?style=for-the-badge&logo=protonmail&logoColor=white' border='0' alt='badge-github'/>
+</a>
+
+<a href='https://bit.ly/varuncv'>
+<img src='https://img.shields.io/badge/Resume-Varun Khatri-inactive?style=for-the-badge&logo=adobe&logoColor=white' border='0' alt='badge-github'/>
+</a>
+
+</div>
+
+<div align = "center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khatrivarun&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khatrivarun&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khatrivarun&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khatrivarun&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khatrivarun&theme=github_dark)
-
-### Some of my favourite work I have done!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khatrivarun&repo=yasm_mobile&theme=dark&show_icons=true)](https://github.com/khatrivarun/yasm_mobile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khatrivarun&repo=yasm&theme=dark&show_icons=true)](https://github.com/khatrivarun/yasm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khatrivarun&repo=askaway_react&theme=dark&show_icons=true)](https://github.com/khatrivarun/askaway_react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khatrivarun&repo=imdb_review_classification&theme=dark&show_icons=true)](https://github.com/khatrivarun/imdb_review_classification)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khatrivarun&repo=carto&theme=dark&show_icons=true)](https://github.com/khatrivarun/carto)
 
 </div>
