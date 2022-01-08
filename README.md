@@ -1,5 +1,8 @@
-![Varun Khatri](https://i.imgur.com/g5qYnNh.jpg)
+<div>
 
+![Varun Khatri](https://i.imgur.com/MeP4c7g.png)
+
+</div>
 <div align = "center">
 
 <a href='https://github.com/khatrivarun'>
