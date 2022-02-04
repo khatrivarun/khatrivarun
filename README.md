@@ -18,11 +18,3 @@
 </a>
 
 </div>
-
-<div align = "center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khatrivarun&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khatrivarun&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khatrivarun&theme=github_dark)
-
-</div>
