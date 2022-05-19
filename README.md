@@ -1,6 +1,6 @@
 <div>
 
-![Varun Khatri](https://i.imgur.com/MeP4c7g.png)
+![Varun Khatri](https://github.com/khatrivarun/khatrivarun/blob/main/g387.png)
 
 </div>
 <div align = "center">
